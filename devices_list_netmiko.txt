@@ -1,3 +1,0 @@
-cisco_ios:192.168.11.172:1.1.1.1:yyc:cisco
-cisco_ios:192.168.11.173:2.2.2.2:yyc:cisco
-cisco_ios:192.168.11.174:3.3.3.3:yyc:cisco
